@@ -6,9 +6,9 @@
 
 برای اجرای برنامه های به زبان کهربا لازم است برنامه خود را در فایلی با پسوند .krb بسازید (مانند main.krb) و از خط فرمان برنامه را اجرا کنید:  
 
-    ./kahroba main.kahroba     // linux
-    kahroba.exe main.kahroba   // windows
-    kahroba_mac main.kahroba   // mac
+    ./kahroba main.krb         // linux
+    kahroba.exe main.krb       // windows
+    kahroba_mac main.krb       // mac
 
 میتوانید از لینک های زیر فایل های اجرایی مربوط به سیستم عامل خود را دانلود کنید :
 
